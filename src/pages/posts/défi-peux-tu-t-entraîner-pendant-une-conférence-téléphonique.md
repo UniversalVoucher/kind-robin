@@ -10,7 +10,7 @@ img_path: "/images/visuals-sW_BS0OVgv0-unsplash-1.jpg"
 excerpt: 'Nos conseils top secret pour profiter des réunions un peu longues... '
 
 ---
-Vous voulez faire de l'exercice, mais vous êtes coincé toute la journée sur des réunion virtuelles un **peu** trop long ?
+Vous voulez faire de l'exercice, mais vous êtes coincé toute la journée sur des réunions virtuelles un **peu** trop long ?
 
 Nous connaissons tous ce sentiment. Mais ne vous inquiétez pas ! L’équipe BougezChezVous vous donne aujourd’hui nos conseils top secret pour vous entraîner pendant une conférence téléphonique – suivrez-les, et vos collèges ne doivent jamais savoir…
 
