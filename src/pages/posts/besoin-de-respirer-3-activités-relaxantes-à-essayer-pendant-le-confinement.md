@@ -20,4 +20,4 @@ Voici trois suggestions d'activités que vous pourriez essayer pendant cette pé
 
 https://youtu.be/6w7IS8_UzHM
 
-* **Pourquoi ne pas essayer l'une de ces activités aujourd'hui ?**
+**Pourquoi ne pas essayer l'une de ces activités aujourd'hui ?**
