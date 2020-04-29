@@ -23,4 +23,4 @@ https://youtu.be/8YsUv_kf-qg
 
 N'oubliez pas : commencez doucement, échauffez-vous, et ne cherchez pas à en faire trop si vous n’avez pas l'habitude !
 
-[**Pensez**](https://youtu.be/8YsUv_kf-qg) **à essayer un des ces entrainements dés aujourd'hui. Et notre conseil : Mettez la musique à fond !**
+[**Pensez**](https://youtu.be/8YsUv_kf-qg) **à essayer un des ces entrainements dès aujourd'hui. Et notre conseil : Mettez la musique à fond !**
