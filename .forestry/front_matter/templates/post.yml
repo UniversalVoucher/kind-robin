@@ -45,6 +45,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/6-des-meilleurs-exercices-pour-se-muscler-en-n-utilisant-que-le-poids-de-votre-corps.md
 - src/pages/posts/7-minutes-d-exercices-par-jour-peuvent-suffire.md
 - src/pages/posts/besoin-de-respirer-3-activités-relaxantes-à-essayer-pendant-le-confinement.md
 - src/pages/posts/besoin-de-vous-défouler-essayez-un-entraînement-de-haute-intensité-aujourd-hui.md
