@@ -1,5 +1,6 @@
 ---
-categoriepost: []
+categoriepost:
+- Avec des enfants
 template: post
 title: Bougez en famille avec ces cours de danse, d'aérobic, de zumba et de yoga
 subtitle: ''
@@ -15,10 +16,10 @@ Quel meilleur moment alors pour bouger en famille ?
 
 Chassez les tensions de la semaine en essayant l'une de ces séances ce soir !
 
-* **La danse classique** - Chaque semaine, les stars de l'Opéra de Paris donnent des [cours de ballet gratuits](https://www.instagram.com/tv/B_fGvZACctg/?hl=fr) pour faire découvrir à l’ensemble des citoyens l’art de danser
+* **La danse classique** - Chaque semaine, les stars de l'Opéra de Paris donnent des [cours de ballet gratuits](https://www.instagram.com/tv/B_fGvZACctg/?hl=fr) pour faire découvrir à l’ensemble des citoyens l’art de danser.
 * **L'aérobic** - Avec plus de 3 millions de vues, cette [vidéo](https://www.youtube.com/watch?v=Yt0wuk_bOXI) de Gym Direct est parfaite pour encourager vos enfants à bouger !
 * **Le zumba -** Envie de faire pomper le coeur ? Cette [courte séance](https://www.youtube.com/watch?v=tIHSkm_LC8s) est sur de booster l'énergie de vous et vos enfants !
-* **Le yoga** - Une pratique idéale pour aider vos enfants à se détendre. Dans [cette vidéo](https://www.youtube.com/watch?v=cM6opeQN9H0), Delphine Bourdet, professeur de yoga, vous montre des postures de yoga adaptées aux enfants
+* **Le yoga** - Une pratique idéale pour aider vos enfants à se détendre. Dans [cette vidéo](https://www.youtube.com/watch?v=cM6opeQN9H0), Delphine Bourdet, professeur de yoga, vous montre des postures de yoga adaptées aux enfants.
 
 **Amusez-vous bien !** 
 
