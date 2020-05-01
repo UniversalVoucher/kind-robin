@@ -12,7 +12,7 @@ excerpt: " 20 minutes de cardio pour vous préparer pour le week-end"
 ---
 **Envie de démarrer le week-end avec dynamisme?**
 
-Le basketteur et médaillé d'argent olympique **Cyril Julian** vous invite à tenter son entraînement cardio de 20 minutes - ce qui ne manquera pas de vous mettre de bonne humeur.
+Le basketteur médaillée d'argent aux JO de 2000 **Cyril Julian** vous invite à tenter son entraînement cardio de 20 minutes - ce qui ne manquera pas de vous mettre de bonne humeur.
 
 <body> <iframe src="https://player.vimeo.com/video/413925872" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> </body>
 
