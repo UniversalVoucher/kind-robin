@@ -16,6 +16,8 @@ Le basketteur **Cyril Julian,** médaillé d'argent aux JO de 2000, vous invite 
 
 <body> <iframe src="https://player.vimeo.com/video/413925872" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> </body>
 
-**Prêt.e à relever le défi ?** Faites-nous savoir comment vous vous en êtes sortis sur [Instagram](https://www.instagram.com/sports.gouv/?hl=en), [Twitter](https://twitter.com/sports_gouv?lang=en) et [Facebook](https://www.facebook.com/sports.gouv.fr) sur le hashtag **#BougezChezVous**, et taguer 5 amis pour étendre le challenge.
+**Prêt.e à relever le défi ?** Suivez le guide - Cyril Julian vous explique tout !
+
+Et faites-nous savoir comment vous vous en êtes sortis sur [Instagram](https://www.instagram.com/sports.gouv/?hl=en), [Twitter](https://twitter.com/sports_gouv?lang=en) et [Facebook](https://www.facebook.com/sports.gouv.fr) sur le hashtag **#BougezChezVous**, et taguer 5 amis pour étendre le challenge.
 
 Bon weekend, et n'oubliez pas de bouger !
