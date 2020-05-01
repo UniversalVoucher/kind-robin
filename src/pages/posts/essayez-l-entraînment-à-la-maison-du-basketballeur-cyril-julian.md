@@ -5,7 +5,7 @@ template: post
 title: Essayez l'entraînment à la maison du basketballeur Cyril Julian
 subtitle: ''
 date: 2020-05-01T00:00:00+01:00
-thumb_img_path: "/images/Cyril Julian.PNG"
+thumb_img_path: "/images/Captureé.PNG"
 img_path: ''
 excerpt: " 20 minutes de cardio pour vous préparer pour le week-end"
 
