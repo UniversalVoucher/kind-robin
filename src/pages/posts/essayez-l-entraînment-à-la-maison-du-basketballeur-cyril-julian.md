@@ -18,6 +18,6 @@ Le basketteur **Cyril Julian,** médaillé d'argent aux JO de 2000, vous invite 
 
 **Prêt.e à relever le défi ?** Suivez le guide - Cyril Julian vous explique tout !
 
-Faites-nous savoir comment vous vous en êtes sortis sur [Instagram](https://www.instagram.com/sports.gouv/?hl=en), [Twitter](https://twitter.com/sports_gouv?lang=en) et [Facebook](https://www.facebook.com/sports.gouv.fr) sur le hashtag **#BougezChezVous,** et n'hésitez pas à envoyer cet entraînement à tous ceux qui, depuis le début du confinement, vous disent qu'il "faudrait vraiment que je fasse un peu de sport..."
+Faites-nous savoir comment vous vous en êtes sortis sur [Instagram](https://www.instagram.com/sports.gouv/?hl=en), [Twitter](https://twitter.com/sports_gouv?lang=en) et [Facebook](https://www.facebook.com/sports.gouv.fr) sur le hashtag **#BougezChezVous,** et n'hésitez pas à envoyer cet entraînement à tous ceux qui, depuis le début du confinement, vous disent qu'il "_faudrait vraiment que je fasse un peu de sport..._"
 
-Bon weekend !
+Bon weekend à tous !
