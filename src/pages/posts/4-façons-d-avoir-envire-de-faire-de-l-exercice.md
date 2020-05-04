@@ -2,7 +2,7 @@
 categoriepost:
 - Conseils pour tous
 template: post
-title: '4 façons d''avoir envire de faire de l''exercice '
+title: '4 façons d''avoir envie de faire de l''exercice '
 subtitle: ''
 date: 2020-05-04T00:00:00+01:00
 thumb_img_path: "/images/Capture5.PNG"
