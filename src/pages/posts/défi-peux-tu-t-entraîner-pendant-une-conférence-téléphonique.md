@@ -17,7 +17,7 @@ Aujourd'hui, nous partageons nos secrets  : Comment faire du sport et bouger pen
 
 A vous de jouer !
 
-1. **Marchez.** On commence doucement : Ne restez pas assis – marchez chez vous pendant vos réunions. Combien de pas pensez-vous pouvoir faire en 10 minutes ? (nous sommes arrivés à 800... mais on est sûrs que vous pouvez faire mieux !)
+1. **Marchez.** On commence doucement : Ne restez pas assis – marchez pendant vos réunions. Combien de pas pensez-vous pouvoir faire en 10 minutes ? (nous sommes arrivés à 800... mais on est sûrs que vous pouvez faire mieux !)
 
     
 2. **Exercez vos muscles en restant assis.** Suivez ces 5 exercises de Lucile Woodward pour vous muscler à votre bureau. 
