@@ -8,7 +8,7 @@ subtitle: ''
 date: 2020-05-06T00:00:00+01:00
 thumb_img_path: "/images/visuals-sW_BS0OVgv0-unsplash.jpg"
 img_path: "/images/visuals-sW_BS0OVgv0-unsplash-1.jpg"
-excerpt: 'Nos conseils top secret pour profiter des réunions un peu longues... '
+excerpt: 'Nos conseils pour profiter des réunions un peu longues pour faire du sport... '
 
 ---
 Pour beaucoup d'entre nous, le confinement rime avec de longues journées assis.e devant un écran à passer de réunion téléphonique en réunion téléphonique. 
@@ -28,4 +28,4 @@ A vous de jouer !
 
 3. **Faites des squats, la chaise ou la planche pendant une réunion.** Vous voulez un vrai défi ?  Essayez de faire des squats, la chaise ou la planche pendant vos réunions. C'est peut-être mieux pour des appels de 5 minutes que pour des réunions de 2 heures, mais vous pouvez aussi créer vos propres défis, par exemple en changeant d'exercice quand une nouvelle personne prend la parole.
 
-_Essayez ces exercises pendant votre prochaine réunion - et n'oubliez pas de vérifier si votre caméra est allumée avant..._ 
+Essayez ces exercises pendant votre prochaine réunion et dites-nous ce que vous en avez pensé ? Mais n'oubliez pas de vérifier avant si votre caméra est allumée... 
