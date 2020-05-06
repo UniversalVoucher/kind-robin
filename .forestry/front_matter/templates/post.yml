@@ -46,6 +46,7 @@ fields:
     required: true
 pages:
 - src/pages/posts/4-façons-d-avoir-envire-de-faire-de-l-exercice.md
+- src/pages/posts/4-jeux-simples-pour-rendre-le-temps-de-jeu-actif.md
 - src/pages/posts/6-des-meilleurs-exercices-pour-se-muscler-en-n-utilisant-que-le-poids-de-votre-corps.md
 - src/pages/posts/7-minutes-d-exercices-par-jour-peuvent-suffire.md
 - src/pages/posts/besoin-de-respirer-3-activités-relaxantes-à-essayer-pendant-le-confinement.md
