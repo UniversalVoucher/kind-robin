@@ -11,13 +11,13 @@ img_path: "/images/visuals-sW_BS0OVgv0-unsplash-1.jpg"
 excerpt: 'Nos conseils top secret pour profiter des réunions un peu longues... '
 
 ---
-Pour beaucoup d'entre nous, le confinement rime avec de longues journées passées assis.e devant un écran à passer de réunion téléphonique en réunion téléphonique. 
+Pour beaucoup d'entre nous, le confinement rime avec de longues journées assis.e devant un écran à passer de réunion téléphonique en réunion téléphonique. 
 
-Aujourd'hui, nous partageons nos secrets 🤫 : Comment faire du sport et bouger pendant des réunions un peu longues ... sans que vos collègues s'en rendent compte ! 
+Aujourd'hui, nous partageons nos secrets  : Comment faire du sport et bouger pendant des réunions un peu longues ... sans que vos collègues s'en rendent compte ! 🤫
 
 A vous de jouer !
 
-1. **Marchez.** On commence doucement : Ne restez pas assis – marchez chez vous pendant vos réunions. Combien de pas pensez-vous pouvoir faire en 10 minutes ? (nous sommes arrivés à 800... mais on est sûrs que vous pouvez faire mieux!)
+1. **Marchez.** On commence doucement : Ne restez pas assis – marchez chez vous pendant vos réunions. Combien de pas pensez-vous pouvoir faire en 10 minutes ? (nous sommes arrivés à 800... mais on est sûrs que vous pouvez faire mieux !)
 
     
 2. **Exercez vos muscles en restant assis.** Suivez ces 5 exercises de Lucile Woodward pour vous muscler à votre bureau. 
