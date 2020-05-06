@@ -28,4 +28,4 @@ A vous de jouer !
 
 3. **Faites des squats, la chaise ou la planche pendant une réunion.** Vous voulez un vrai défi ?  Essayez de faire des squats, la chaise ou la planche pendant vos réunions. C'est peut-être mieux pour des appels de 5 minutes que pour des réunions de 2 heures, mais vous pouvez aussi créer vos propres défis, par exemple en changeant d'exercice quand une nouvelle personne prend la parole.
 
-**Pourquoi ne pas essayer ces exercises pendant votre prochaine réunion ?** Mais n'oubliez pas de vérifier avant si votre caméra est allumée... 
+**Pourquoi ne pas essayer ces exercises pendant votre prochaine réunion** **(sans oublier bien sûr de vérifier avant si votre caméra est allumée...) ?**
