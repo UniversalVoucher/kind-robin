@@ -2,34 +2,30 @@
 categoriepost:
 - Conseils pour tous
 template: post
-title: 'Défi : peux-tu t''entraîner pendant une conférence téléphonique ? '
+title: 'Le secret du jour : comment faire du sport pendant une réunion téléphonique
+  ? '
 subtitle: ''
-date: 2020-05-01T00:00:00+01:00
+date: 2020-05-06T00:00:00+01:00
 thumb_img_path: "/images/visuals-sW_BS0OVgv0-unsplash.jpg"
 img_path: "/images/visuals-sW_BS0OVgv0-unsplash-1.jpg"
 excerpt: 'Nos conseils top secret pour profiter des réunions un peu longues... '
 
 ---
-Vous voulez faire de l'exercice, mais vous êtes coincé toute la journée sur des réunions virtuelles un **peu** trop long ?
+Pour beaucoup d'entre nous, le confinement rime avec de longues journées passées assis.e devant un écran à passer de réunion téléphonique en réunion téléphonique. 
 
-Nous connaissons tous ce sentiment. Mais ne vous inquiétez pas ! L’équipe BougezChezVous vous donne aujourd’hui nos conseils top secret pour vous entraîner pendant une conférence téléphonique – suivrez-les, et vos collèges ne doivent jamais savoir…
+Aujourd'hui, nous partageons nos secrets 🤫 : Comment faire du sport et bouger pendant des réunions un peu longues ... sans que vos collègues s'en rendent compte ! 
 
-Quelles activités ci-dessous pouvez-vous faire ?
+A vous de jouer !
 
-1. **Marchez et parlez.** 
+1. **Marchez.** On commence doucement : Ne restez pas assis – marchez chez vous pendant vos réunions. Combien de pas pensez-vous pouvoir faire en 10 minutes ? (nous sommes arrivés à 800... mais on est sûrs que vous pouvez faire mieux!)
 
-Ne restez pas assis – faites une promenade pendant votre réunion. Combien de tours de votre salle pouvez-vous faire ? Vous seriez surpris de savoir combien de pas vous pouvez faire avec 2 mètres en 30 minutes.
-
-2. **Exercez vos muscles en restant assis.** 
-
-Suivez ces 5 exercises de Lucile Woodward pour vous muscler à votre bureau.
+    
+2. **Exercez vos muscles en restant assis.** Suivez ces 5 exercises de Lucile Woodward pour vous muscler à votre bureau. 
 
 <body>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CJlf9EQ5ZZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 
-3. **Squattez ou planchez pour votre réunion.** 
+3. **Faites des squats ou la planche pendant une réunion.** Vous voulez un vrai défi ? Oubliez la chaise ! Essayez de faire des squats ou la planche pendant vos réunions. C'est peut-être mieux pour des appels de 5 minutes que pour des réunions de 2 heures, mais vous pouvez aussi créer vos propres défis, par exemple en changeant d'exercice quand une nouvelle personne prend la parole.
 
-Vous voulez un vrai défi ? Oubliez la chaise ! Essayez de vous accroupir pour la duration de votre réunion. C'est peut-être mieux pour des appels de 5 minutes que des réunions de 2 heures, mais choisissez vos défis...
-
-_Essayez ces exercises pendant votre prochaine réunion - mais n'oubliez pas de vérifier si votre vidéo est allumé ou non..._
+_Essayez ces exercises pendant votre prochaine réunion - et n'oubliez pas de vérifier si votre caméra est allumée avant..._ 
