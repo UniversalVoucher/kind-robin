@@ -2,7 +2,7 @@
 categoriepost:
 - Conseils pour tous
 template: post
-title: 'Défi du week-end : j''escalade la Tour Eiffel (dans mon salon)'
+title: 'Défi du week-end : j''escalade la tour Eiffel (dans mon salon)'
 subtitle: ''
 date: 2020-05-07T00:00:00+01:00
 thumb_img_path: "/images/jeevan-jose-zeD4jzEa0Ek-unsplash.jpg"
@@ -14,12 +14,12 @@ En ce long weekend de célébration de la fin de la seconde guerre mondiale (et 
 
 **Comment s'y prendre ?**
 
-La tour Eiffel a une hauteur de 324 mètres (saviez-vous qu’elle peut aussi grandir de 15 cm selon la température ?!). Au total, il y a 1,665 marches du sol au sommet de la tour Eiffel.
+La tour Eiffel a une hauteur de 324 mètres (saviez-vous que sa taille peut varier de 20cm selon la température ?!). Au total, il y a 1,665 marches du sol au sommet de la tour Eiffel.
 
 Voici comment vous y prendre (nous avons même fait les calculs pour vous...) :
 
-* **Vous avez un escalier ?** Une marche d'escalier typique a la même hauteur que les marches de la tour Eiffel. Un étage moyen comporte 13 marches – la tour Eiffel équivaut donc à monter 128 étages.
-* **Pas d'escalier ? Créez vous une marche.** Vous n’avez pas besoin d’avoir accès à un escalier pour pouvoir relever ce défi. Cherchez chez vous un objet que vous pourriez utiliser comme marche, par exemple une petite boîte ou même un banc. La hauteur d’une marche moyenne est de 17cm, donc donnez-vous une marge de manœuvre si votre marche est plus haute que ça.
+* **Vous avez un escalier ?** Une marche d'escalier typique a la même hauteur que les marches de la tour Eiffel. Un étage moyen comporte 13 marches – la tour Eiffel équivaut donc à 128 étages.
+* **Pas d'escalier ? Créez vous une marche.** Vous n’avez pas besoin d’avoir accès à un escalier pour pouvoir relever ce défi. Cherchez chez vous un objet que vous pourriez utiliser comme marche, par exemple une boîte ou même un banc. La hauteur d’une marche moyenne est de 17cm, donc donnez-vous une marge de manœuvre si votre marche est plus haute que ça.
 
 **Alors, pensez-vous pouvoir grimper 1 665 marches ce week-end ?**
 
