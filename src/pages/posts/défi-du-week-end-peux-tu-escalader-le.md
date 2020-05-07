@@ -10,7 +10,7 @@ img_path: "/images/jeevan-jose-zeD4jzEa0Ek-unsplash-1.jpg"
 excerpt: ''
 
 ---
-Dans ce qui pourrait être notre dernier défi du week-end en confinement total, nous vous proposons cette semaine un défi véritablement patriotique : pouvez-vous escalader la hauteur de la tour Eiffel de chez vous ?
+Dans ce qui pourrait être notre dernier week-end en confinement total, nous vous proposons cette semaine un défi véritablement patriotique : pouvez-vous escalader la hauteur de la tour Eiffel de chez vous ?
 
 **Comment le faire ?**
 
