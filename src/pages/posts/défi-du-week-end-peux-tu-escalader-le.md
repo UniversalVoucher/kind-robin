@@ -14,7 +14,7 @@ En ce long weekend de célébration de la fin de la seconde guerre mondiale (et 
 
 **Comment s'y prendre ?**
 
-La tour Eiffel a une hauteur de 324 mètres (saviez-vous que sa taille peut varier de 20cm selon la température ?!). Au total, il y a 1,665 marches du sol au sommet de la tour Eiffel.
+La tour Eiffel a une hauteur de 324 mètres (saviez-vous que sa taille peut varier de 20cm selon la température ?!). Au total, il y a 1 665 marches du sol au sommet de la tour Eiffel.
 
 Voici comment vous y prendre (nous avons même fait les calculs pour vous...) :
 
