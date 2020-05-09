@@ -12,7 +12,7 @@ excerpt: 'Prêt.e à relever le défi ? '
 ---
 La [dernière vidéo](https://bougezchezvous.fr/posts/le-basketteur-cyril-julian-a-cr%C3%A9%C3%A9-un-entra%C3%AEnement-pour-bougezchezvous/) de Cyril Julian, basketteur médaillé d'argent aux JO de 2000, a été l'un de nos posts les plus populaires. Cette semaine, Cyril vous propose donc un deuxième entraînement, créé spécialement pour BougezChezVous.
 
-Pourquoi ne pas essayer cette session, un parcours spécial confinement, pendant ce dernier weekend de confinement total ? 
+Pourquoi ne pas essayer cette session, un parcours "spécial confinement" utilisant des objets du quotidien, pendant ce dernier weekend de confinement total ? 
 
 **Prêt.e à relever le défi ? Suivez le guide ci-dessous - Cyril vous explique tout !**
 
