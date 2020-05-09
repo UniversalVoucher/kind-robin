@@ -6,7 +6,7 @@ title: Essayez le deuxième entraînement du basketteur Cyril Julian
 subtitle: ''
 date: 2020-05-09T00:00:00+01:00
 thumb_img_path: "/images/BCV JC.png"
-img_path: "/images/BCV JC.png"
+img_path: ''
 excerpt: 'Prêt.e à relever le défi ? '
 
 ---
