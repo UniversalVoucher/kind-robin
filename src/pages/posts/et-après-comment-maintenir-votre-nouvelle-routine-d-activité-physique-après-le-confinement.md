@@ -38,7 +38,7 @@ Essayez de réfléchir à quoi pourrait ressembler une nouvelle routine parfaite
 
 Nous nous sommes tous adaptés différemment au confinement à la maison, mais un manque total de structure peut être difficile même dans le meilleur des cas. Maintenant que les contraintes se lèvent, il est le temps de rétablir des routines pour l’avenir.
 
-* Pourquoi pas intégrer de l’activité physique dans votre routine du matin ? Cela peut prendre de nombreuses formes différentes – un entrainement complet, une activité rapide (ex : 7 minutes), courir, marcher, tout. Tant que cela vous permet de vous lever et de bouger, allez-y.
+* Pourquoi pas intégrer de l’activité physique dans votre routine du matin ? Cela peut prendre de nombreuses formes différentes – un entrainement complet, une activité rapide (ex : [7 minutes](https://bougezchezvous.fr/posts/d%C3%A9fi-7-minutes-d-exercice-par-jour/)), courir, marcher, tout. Tant que cela vous permet de vous lever et de bouger, allez-y.
 * Pourriez-vous faire du vélo, marcher ou courir au travail, ou bouger pendant l’heure du déjeuner ?
 * Faites de l'exercise a votre bureau en utilisant [nos secret](https://bougezchezvous.fr/posts/le-secret-du-jour-comment-faire-du-sport-pendant-une-r%C3%A9union-t%C3%A9l%C3%A9phonique/)s.
 
