@@ -14,39 +14,27 @@ Alors que nous commençons à sortir du confinement, c’est le bon moment pour 
 
 Les prochaines semaines seront en effet cruciales pour assurer que vous gardiez le cap et ne perdiez pas vos bonnes habitudes, malgré les changements liés au déconfinement.
 
- Alors pour vous accompagner, voici quelques conseils pour continuer à bouger pendant, et après le déconfinement :
+Alors pour vous accompagner, voici quelques conseils pour continuer à bouger, chez vous, et ailleurs... 
 
-**Écoutez votre corps**
+**Écoutez vous !** 
 
-Pour beaucoup d’entre nous, le confinement signifiait que nous étions obligés d’expérimenter de nouvelles façons de faire de l’activité physique – qu’il s’agisse de routines, de types d’activités ou de fréquence. Prenez du temps pour réfléchir aux dernières semaines :
+Nous avons, du fait du confinement, du trouver de nouvelles façons de faire du sport, que ce soit en terme de moment de la journée, endroit où faire du sport, ou type d'activité. Avant de mettre en place un nouveau rythme post-déconfinement, prenez deux minutes pour revenir sur les dernières semaines :
 
-* **Fréquence :** Combien de fois par semaine avez-vous fait de l’exercice ? Cela vous a-t-il semblé bien ou naturel ?
-* **Type d’activités :** Qu’avez-vous apprécié en faisant de l'activité physique ? Y a-t-il de nouvelles activités que vous aimeriez explorer plus après le confinement ?
+* **Fréquence :** Combien de fois par semaine avez-vous fait de l’exercice ? Cela vous a-t-il semblé trop peu, bien, trop ? 
+* **Moment de la journée :** Quand avez-vous fait du sport pendant la journée ? 
+* **Type d’activités :** Qu’avez-vous apprécié en faisant de l'activité physique ? Y a-t-il de nouvelles activités que vous aimeriez continuer à explorer plus après le confinement ?
+* **Astuces :** Certaines astuces vous ont-elles aidé à rester motivé.e ? Lesquelles ?
 
-Essayez de réfléchir à quoi pourrait ressembler une nouvelle routine parfaite pour vous une fois que nous sortons du confinement.
+Maintenant essayez de réfléchir à la façon dont les éléments positifs du confinement pourraient être conservés ou adaptés à votre rythme "normal".
 
-**Planifiez quand vous allez faire de l'activité physique**
+**Planifiez votre nouveau rythme** 
 
-* Gardez un temps bloqué dans votre agenda, placez des rappels, et/ou notez ce que vous allez faire et quand.
-* Fixer un objectif de nombre de pas que vous voulez faire chaque jour.
-* Utiliser des applications ou un journal pour suivre vos progrès.
+N'oubliez pas non plus de revenir aux conseils que nous livrent les sciences comportementales pour former des bonnes habitudes sur le long terme  - LINK TO ARTICLE -, par exemple :
 
-**Retrouvez une routine**
-
-Nous nous sommes tous adaptés différemment au confinement à la maison, mais un manque total de structure peut être difficile même dans le meilleur des cas. Maintenant que les contraintes se lèvent, il est le temps de rétablir des routines pour l’avenir.
-
-* Pourquoi pas intégrer de l’activité physique dans votre routine du matin ? Cela peut prendre de nombreuses formes différentes – un entrainement complet, une activité rapide (ex : [7 minutes](https://bougezchezvous.fr/posts/d%C3%A9fi-7-minutes-d-exercice-par-jour/)), courir, marcher, tout. Tant que cela vous permet de vous lever et de bouger, allez-y.
-* Pourriez-vous faire du vélo, marcher ou courir au travail, ou bouger pendant l’heure du déjeuner ?
-* Faites de l'exercise a votre bureau en utilisant [nos secret](https://bougezchezvous.fr/posts/le-secret-du-jour-comment-faire-du-sport-pendant-une-r%C3%A9union-t%C3%A9l%C3%A9phonique/)s.
-
-**Rendez l'exercice social**
-
-Nos amis, nos familles et nos collègues nous ont tous manqué. Pourquoi ne pas profiter du temps ensemble et voir si vous pourriez faire de l’exercice avec vos proches ?
-
-**Explorez ce qui existe autour de vous**
-
-Avec un peu de chance, ça ne sera pas trop longtemps avant que les salles de sports et les studios de remise en forme rouvrent. Alors pourquoi pas prendre du temps pour explorez ce qui existe autour de vous, que ce soit une gym normale ou des classes spécialisés !
+* Continuez à bloquer à l'avance dans votre agenda les moments où vous ferez du sport en y plaçant des rappels précis. 
+* Fixez-vous des objectifs, par exemple en terme de nombre de pas quotidiens, ou heures d'activité physique hebdomadaire. Votre calendrier ou les applications présentes sur votre téléphone peuvent vous aider à suivre vos progrès.
+* Etendez votre routine à de nouvelles activités maintenant possibles, par exemple comme vous rendre au travail à vélo ou à pied (ca permet aussi d'éviter les transports en commun !), faire du sport pendant l’heure du déjeuner, ou encore faire certaines de vos réunions en marchant. 
 
 **Continuez à Bouger Chez Vous !**
 
-Même si le confinement a terminé, vous ne devez pas arrêter de vous entrainer à la maison. Continuer à #BougezChezVous en utilisant les nouvelles habitudes, compétences, plaisir et routines que vous avez découvert pendant le confinement.
+Même si le confinement se termine progressivement, continuez à #BougerChezVous !
