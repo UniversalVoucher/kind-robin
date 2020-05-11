@@ -23,8 +23,8 @@ Voyez ci-dessous quelques conseils pour continuer à bouger après le confinemen
 
 Pour beaucoup d’entre nous, le confinement signifiait que nous étions obligés d’expérimenter de nouvelles façons de faire de l’activité physique – qu’il s’agisse de routines, de types d’activités ou de fréquence. Prenez du temps pour réfléchir aux dernières semaines :
 
-* **Fréquence :** combien de fois par semaine avez-vous fait de l’exercice ? Cela vous a-t-il semblé bien ou naturel ?
-* **Type d’activités :** qu’avez-vous apprécié en faisant de l'activité physique ? Y a-t-il de nouvelles activités que vous aimeriez explorer plus avant après le confinement ?
+* **Fréquence :** Combien de fois par semaine avez-vous fait de l’exercice ? Cela vous a-t-il semblé bien ou naturel ?
+* **Type d’activités :** Qu’avez-vous apprécié en faisant de l'activité physique ? Y a-t-il de nouvelles activités que vous aimeriez explorer plus après le confinement ?
 
 Essayez de réfléchir à ce à quoi pourrait ressembler une nouvelle routine parfaite pour vous une fois que nous sortons du confinement.
 
