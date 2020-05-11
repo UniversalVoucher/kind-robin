@@ -34,7 +34,7 @@ Essayez de réfléchir à ce à quoi pourrait ressembler une nouvelle routine pa
 * Fixer un objectif de nombre de pas que vous voulez faire chaque jour.
 * Utiliser des applications ou un journal pour suivre vos progrès.
 
-**Retrouver une routine**
+**Retrouvez une routine**
 
 Nous nous sommes tous adaptés différemment au confinement à la maison, mais un manque total de structure peut être difficile même dans le meilleur des cas. Maintenant que les contraintes se lèvent, il est le temps de rétablir des routines pour l’avenir.
 
@@ -42,7 +42,7 @@ Nous nous sommes tous adaptés différemment au confinement à la maison, mais u
 * Pourriez-vous faire du vélo, marcher ou courir au travail, ou bouger pendant l’heure du déjeuner ?
 * Faites de l'exercise a votre bureau en utilisant [nos secret](https://bougezchezvous.fr/posts/le-secret-du-jour-comment-faire-du-sport-pendant-une-r%C3%A9union-t%C3%A9l%C3%A9phonique/)s.
 
-**Rendre l'exercice social**
+**Rendez l'exercice social**
 
 Nos amis, nos familles et nos collègues nous ont tous manqué. Pourquoi ne pas profiter du temps ensemble et voir si vous pourriez faire de l’exercice avec vos proches ?
 
