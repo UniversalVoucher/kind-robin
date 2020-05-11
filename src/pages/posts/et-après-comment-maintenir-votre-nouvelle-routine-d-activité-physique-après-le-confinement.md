@@ -13,7 +13,7 @@ excerpt: ''
 ---
 Maintenant que la France commence à sortir du confinement, c’est un bon moment de réfléchir aux dernières semaines et à ce qui va suivre.
 
-Il semble évident que la vie et le monde ne reviendront pas à la « normale » d’avant, même après le confinement. Et nous sommes des créatures d’habitudes, et donc les changements qui vont se passer aux cours des prochaines semaines pourraient être difficiles.
+Il semble évident que la vie et le monde ne reviendront pas à la « normale » d’avant, même après le confinement. Nous sommes des créatures d’habitudes, et donc les changements qui vont se passer aux cours des prochaines semaines pourraient être difficiles.
 
 Si vous ayez adopté des nouvelles habitudes d’activité physique (ou si vous n’ayez pas pu conserver votre ancien programme) c’est important de réfléchir à la manière dont vous pouvez maintenir (ou reprendre) votre activité alors que nous entrons dans une nouvelle routine.
 
