@@ -17,7 +17,7 @@ Il semble évident que la vie et le monde ne reviendront pas à la « normale »
 
 Si vous ayez adopté des nouvelles habitudes d’activité physique (ou si vous n’ayez pas pu conserver votre ancien programme) c’est important de réfléchir à la manière dont vous pouvez maintenir (ou reprendre) votre activité alors que nous entrons dans une nouvelle routine.
 
-Voyez ci-dessous quelques conseils pour continuer a Bougez après le confinement.
+Voyez ci-dessous quelques conseils pour continuer à bouger après le confinement.
 
 **Écoutez votre corps**
 
