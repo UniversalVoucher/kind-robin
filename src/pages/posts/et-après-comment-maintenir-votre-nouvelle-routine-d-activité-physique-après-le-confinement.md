@@ -2,8 +2,7 @@
 categoriepost:
 - Conseils pour tous
 template: post
-title: Et après ? Comment maintenir votre nouvelle routine d'activité physique après
-  le confinement
+title: Et après ? Comment rester actif après le déconfinement
 subtitle: ''
 date: 2020-05-11T00:00:00+01:00
 thumb_img_path: "/images/bruno-nascimento-PHIgYUGQPvU-unsplash.jpg"
@@ -11,13 +10,11 @@ img_path: "/images/bruno-nascimento-PHIgYUGQPvU-unsplash-1.jpg"
 excerpt: ''
 
 ---
-Maintenant que la France commence à sortir du confinement, c’est un bon moment de réfléchir aux dernières semaines et à ce qui va suivre.
+Alors que nous commençons à sortir du confinement, c’est le bon moment pour revenir sur les semaines passées et penser aux semaines à venir : quelles habitudes acquises pendant le confinement voudriez-vous garder ? Quels changements voudriez-vous faire ? 
 
-Il semble évident que la vie et le monde ne reviendront pas à la « normale » d’avant, même après le confinement. Nous sommes des créatures d’habitudes, et donc les changements qui vont se passer aux cours des prochaines semaines pourraient être difficiles.
+Les prochaines semaines seront en effet cruciales pour assurer que vous gardiez le cap et ne perdiez pas vos bonnes habitudes, malgré les changements liés au déconfinement.
 
-Si vous ayez adopté des nouvelles habitudes d’activité physique (ou si vous n’ayez pas pu conserver votre ancien programme) c’est important de réfléchir à la manière dont vous pouvez maintenir (ou reprendre) votre activité alors que nous entrons dans une nouvelle routine.
-
-Voyez ci-dessous quelques conseils pour continuer à bouger après le confinement.
+ Alors pour vous accompagner, voici quelques conseils pour continuer à bouger pendant, et après le déconfinement :
 
 **Écoutez votre corps**
 
