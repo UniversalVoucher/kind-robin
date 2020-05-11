@@ -26,7 +26,7 @@ Pour beaucoup d’entre nous, le confinement signifiait que nous étions obligé
 * **Fréquence :** Combien de fois par semaine avez-vous fait de l’exercice ? Cela vous a-t-il semblé bien ou naturel ?
 * **Type d’activités :** Qu’avez-vous apprécié en faisant de l'activité physique ? Y a-t-il de nouvelles activités que vous aimeriez explorer plus après le confinement ?
 
-Essayez de réfléchir à ce à quoi pourrait ressembler une nouvelle routine parfaite pour vous une fois que nous sortons du confinement.
+Essayez de réfléchir à quoi pourrait ressembler une nouvelle routine parfaite pour vous une fois que nous sortons du confinement.
 
 **Planifiez quand vous allez faire de l'activité physique**
 
