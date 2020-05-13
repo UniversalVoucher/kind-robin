@@ -2,13 +2,12 @@
 categoriepost:
 - Se muscler
 template: post
-title: Comment s'entraîner à la maison en utilisant les objets du quotidien
+title: Comment faire de la musculation à la maison avec les objets du quotidien
 subtitle: ''
 date: 2020-05-06T00:00:00+01:00
 thumb_img_path: ''
 img_path: ''
-excerpt: Avec un œil attentif et un peu de créativité, presque tout peut servir comme
-  équipement d'entraînement...
+excerpt: Avec un peu de créativité, presque tout peut servir comme équipement de musculation
 
 ---
 Le confinement a forcé beaucoup d'entre nous à repenser nos entraînements. Privés de salles de gym, beaucoup ont découvert qu'avec un peu de créativité, presque tout peut servir comme équipement sportif.
