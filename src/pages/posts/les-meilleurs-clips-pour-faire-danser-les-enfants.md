@@ -5,7 +5,7 @@ template: post
 title: Les meilleurs clips pour faire danser les enfants
 subtitle: ''
 date: 2020-05-14T00:00:00+01:00
-thumb_img_path: "/images/ddp.png"
+thumb_img_path: "/images/ddp-bcv.png"
 img_path: ''
 excerpt: ''
 
