@@ -2,7 +2,7 @@
 categoriepost:
 - Avec des enfants
 template: post
-title: Les meilleurs clips pour faire danser les enfants
+title: 'Des clips pour faire danser les enfants (et vous ?) '
 subtitle: ''
 date: 2020-05-14T00:00:00+01:00
 thumb_img_path: "/images/ddp-bcv.png"
@@ -10,11 +10,11 @@ img_path: ''
 excerpt: ''
 
 ---
-Quelle meilleur moyen de faire bouger les enfants que la danse ? 
+Quel meilleur moyen de faire bouger les enfants que la danse ?
 
-Pour vous donner de l'inspiration, nous avons trouvé les meilleures vidéos de musiques en ligne qui proposent des danses faciles à suivre pour les enfants.
+Pour vous donner de l'inspiration, nous avons voulions partager avec vous certaines de nos vidéos préférées, proposant toutes des chorégraphies faciles à suivre pour les enfants.
 
-Pourquoi ne pas y participer aussi ? Nous avons eu plus de plaisir que nous ne voudrions l'admettre pendant qu'on les « testait » ...
+Et puis pourquoi ne pas vous y mettre aussi ? Nous avons eu plus de plaisir que nous ne voudrions l'admettre pendant qu'on les « testait » ...
 
 **La danse des Pingouins**
 
