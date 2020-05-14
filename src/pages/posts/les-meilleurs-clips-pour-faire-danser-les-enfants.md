@@ -10,7 +10,7 @@ img_path: ''
 excerpt: ''
 
 ---
-Quel meilleur moyen de faire bouger les enfants que la danse ?
+**Quel meilleur moyen de faire bouger les enfants que la danse ?**
 
 Pour vous donner de l'inspiration, nous voulions partager avec vous certaines de nos vidéos préférées, proposant toutes des chorégraphies faciles à suivre pour les enfants.
 
