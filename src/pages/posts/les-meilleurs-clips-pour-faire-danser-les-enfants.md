@@ -12,7 +12,7 @@ excerpt: ''
 ---
 Quel meilleur moyen de faire bouger les enfants que la danse ?
 
-Pour vous donner de l'inspiration, nous avons voulions partager avec vous certaines de nos vidéos préférées, proposant toutes des chorégraphies faciles à suivre pour les enfants.
+Pour vous donner de l'inspiration, nous voulions partager avec vous certaines de nos vidéos préférées, proposant toutes des chorégraphies faciles à suivre pour les enfants.
 
 Et puis pourquoi ne pas vous y mettre aussi ? Nous avons eu plus de plaisir que nous ne voudrions l'admettre pendant qu'on les « testait » ...
 
