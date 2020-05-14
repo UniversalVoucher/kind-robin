@@ -10,17 +10,17 @@ img_path: ''
 excerpt: ''
 
 ---
-Quelle meilleur moyen de faire bouger les enfants que la danse ? C'est amusant et sain. 
+Quelle meilleur moyen de faire bouger les enfants que la danse ? 
 
-Pour vous donner de l'inspiration, nous avons trouvé les meilleures vidéos de musiques en ligne qui proposent des danses faciles à suivre pour les enfants. 
+Pour vous donner de l'inspiration, nous avons trouvé les meilleures vidéos de musiques en ligne qui proposent des danses faciles à suivre pour les enfants.
 
-Pourquoi ne pas y participer ? Nous avons eu plus de plaisir que nous ne voudrions l'admettre pendant qu'on les « testait »...
+Pourquoi ne pas y participer aussi ? Nous avons eu plus de plaisir que nous ne voudrions l'admettre pendant qu'on les « testait » ...
 
 **La danse des Pingouins**
 
 https://www.youtube.com/watch?v=-xtPMTEPFug
 
-**L'Age de Glace 4 : La Danse de Sid** 
+**L'Age de Glace 4 : La Danse de Sid**
 
 https://www.youtube.com/watch?v=FnnFxUcfb8o&list=PLGtFqM0kQzLN_TIg3vbaKzkfIBGGPUwyw&index=5
 
@@ -31,10 +31,6 @@ https://www.youtube.com/watch?v=xgZtRa5nbd8
 **La danse des canards**
 
 https://www.youtube.com/watch?v=VCXj-JC2kus
-
-**Les pouces en avant (tchic et tchac han han)**
-
-https://www.youtube.com/watch?v=9p_SGsGWmYs&list=PLGtFqM0kQzLN_TIg3vbaKzkfIBGGPUwyw&index=2
 
 **MOUSSIER TOMBOLA - LOGOBITOMBO**
 
