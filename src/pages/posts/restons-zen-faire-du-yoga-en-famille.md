@@ -14,6 +14,8 @@ Le yoga est extrêmement bénéfique pour les adultes et enfants de tous âges. 
 
 Il existe des tonnes de ressources en ligne pour aider votre famille a apprendre le yoga. Les vidéos en particulier sont un excellent moyen d'apprendre - elles attirent l'attention, sont faciles à suivre et amusantes. Voici donc quelques-unes de nos vidéos de yoga gratuites pour  enfants préférées sur YouTube.
 
+Pourquoi ne pas les essayer cette semaine ?
+
 **Doctissimo - Séance de Yoga pour les enfants (15 minutes)**
 
 https://www.youtube.com/watch?v=cM6opeQN9H0
