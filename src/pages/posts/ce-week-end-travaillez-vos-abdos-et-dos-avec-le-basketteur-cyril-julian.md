@@ -2,7 +2,7 @@
 categoriepost:
 - Conseils pour tous
 template: post
-title: Ce week-end, travaillez vos abdos et dos avec le basketteur Cyril Julian
+title: Ce week-end, travaillez vos abdos avec le basketteur Cyril Julian
 subtitle: ''
 date: 2020-05-22T00:00:00+01:00
 thumb_img_path: "/images/bcvjc4.png"
