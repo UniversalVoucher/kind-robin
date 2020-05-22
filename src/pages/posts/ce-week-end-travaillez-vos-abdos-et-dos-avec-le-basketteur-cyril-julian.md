@@ -10,9 +10,9 @@ img_path: ''
 excerpt: Cyril Julian vous propose son quatrième entraînement !
 
 ---
-Ce week-end, le basketteur Cyril Julian vous propose son quatrième entraînement : cette fois, préparez-vous à sentir vos abdos brûler. 
+Ce week-end, le basketteur Cyril Julian vous propose son quatrième entraînement : cette fois, préparez-vous à sentir vos abdos brûler.
 
-Prêt pour le défi? Allez-y ci-dessous - c'est seulement 20 minutes mais nous promettons que vous vous sentirez super après.
+Prêt pour le défi ? Allez-y ci-dessous - c'est seulement 20 minutes mais nous promettons que vous vous sentirez super après.
 
 <body>
 
