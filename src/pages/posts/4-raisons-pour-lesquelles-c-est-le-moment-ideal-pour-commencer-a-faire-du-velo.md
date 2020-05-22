@@ -6,9 +6,9 @@ title: 4 raisons pour lesquelles c'est le moment idéal pour commencer à faire 
 subtitle: ''
 date: 2020-05-25T00:00:00+01:00
 thumb_img_path: "/images/bantersnaps-53jzxalahom-unsplash.jpg"
-img_path: ''
-excerpt: Alors que le déconfiment commence, voyager à vélo sera une option sûre, saine
-  et potentiellement addictive
+img_path: "/images/bantersnaps-53jzxalahom-unsplash.jpg"
+excerpt: Alors que le déconfiment commence à prendre forme, voyager à vélo sera une
+  option sûre, saine et potentiellement addictive
 
 ---
 **Envie à commencer à faire du vélo mais un peu nerveux?** 
