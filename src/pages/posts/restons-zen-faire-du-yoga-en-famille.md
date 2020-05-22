@@ -10,9 +10,11 @@ img_path: "/images/jyotirmoy-gupta-bpz9woyalwk-unsplash.jpg"
 excerpt: ''
 
 ---
-Le yoga est extrêmement bénéfique pour les adultes et enfants de tous âges. Pour les enfants en particulier, il représente non seulement une activité physique, mais aussi une activité relaxante et calme qui peut aider l'enfant d'apprivoiser ses émotions et à mieux se connaitre.
+Le yoga est extrêmement bénéfique pour les adultes et enfants de tous âges. Pour les enfants en particulier, il représente non seulement une activité physique, mais aussi une activité relaxante et calme qui peut aider l'enfant à mieux gérer ses émotions.
 
-Il existe des tonnes de ressources en ligne pour aider votre famille a apprendre le yoga. Les vidéos en particulier sont un excellent moyen d'apprendre - elles attirent l'attention, sont faciles à suivre et amusantes. Voici donc quelques-unes de nos vidéos de yoga gratuites pour  enfants préférées sur YouTube.
+Il existe de nombreuses ressources en ligne pour aider votre famille à apprendre le yoga. 
+
+Les vidéos en particulier sont un excellent moyen d'apprendre - elles attirent l'attention, sont faciles à suivre et amusantes. Voici donc quelques-unes de nos vidéos de yoga gratuites pour enfants préférées sur YouTube.
 
 Pourquoi ne pas les essayer cette semaine ?
 
