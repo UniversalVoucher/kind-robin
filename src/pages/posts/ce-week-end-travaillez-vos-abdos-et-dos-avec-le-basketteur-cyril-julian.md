@@ -2,7 +2,7 @@
 categoriepost:
 - Conseils pour tous
 template: post
-title: Ce week-end, travaillez vos abdos avec le basketteur Cyril Julian
+title: Ce week-end, travaillez vos abdos avec Cyril Julian
 subtitle: ''
 date: 2020-05-22T00:00:00+01:00
 thumb_img_path: "/images/bcvjc4.png"
@@ -12,7 +12,7 @@ excerpt: Cyril Julian vous propose son quatrième entraînement !
 ---
 Ce week-end, le basketteur Cyril Julian vous propose son quatrième entraînement : cette fois, préparez-vous à sentir vos abdos brûler.
 
-Prêt pour le défi ? Allez-y ci-dessous - c'est seulement 20 minutes mais nous promettons que vous vous sentirez super après.
+Prêt.e pour le défi ? Cliquez sur la vidéo ci-dessous - c'est 20 minutes d'effort, mais nous vous promettons que vous vous sentirez d'attaque pour le weekend après ! 
 
 <body>
 
