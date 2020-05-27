@@ -11,16 +11,18 @@ excerpt: Alors que le déconfiment commence à prendre forme, voyager à vélo s
   option sûre, saine et potentiellement addictive
 
 ---
-**Envie de commencer à faire du vélo mais un peu nerveux?**
+**Envie de commencer à faire du vélo mais encore un peu nerveux ?**
 
-Il n'y a peut-être pas de meilleur moment pour prendre la route que maintenant. Voici 4 raisons pour vous encourager à franchir le pas aujourd'hui:
+Vous l'aurez vu autour de vous, de plus en plus de personnes ont commencé, ou recommencé, à se déplacer en vélo. En effet, entre le beau temps, les transports à éviter et les nouvelles pistes cyclables - il n'y a peut-être pas de meilleur moment pour prendre la route. 
 
-**1. C'est plus sûr que vous ne le pensez** - La sécurité (ou notre perception de celle-ci) est peut-être le plus grand obstacle au cyclisme. Il est donc tout à fait normal de se sentir nerveux au début. Mais les incidents majeurs resent rares - il y a une blessure grave ou mort une fois tous pour [1 million de kilomètres parcourus](https://axa.ch/fr/ueber-axa/blog/mobilite/velo-electrique-accident-statistiques-conseils-prevention.html). Et avec moins de voitures sur la route que d'habitude, c'est le moment idéal pour commencer et gagner en confiance. Vous pourriez même demander à un ami de vous accompagner la première fois
+Voici 4 raisons pour vous encourager à franchir le pas dès aujourd'hui:
 
-**2. Les avantages pour la santé dépassent largement les risques** - Le vélo au quotidien est l'un des meilleurs moyens d'améliorer votre santé, avec un rapport bénéfice / risque est d'environ [sept pour un](https://ehp.niehs.nih.gov/doi/10.1289/ehp.0901747). Même un rythme assez calme est considéré comme une activité modérée, et si vous accumulez une demi-heure de cela, cinq fois par semaine, vous avez déjà dépassé le minimum recommandé pour l'activité aérobie.
+**1. C'est plus sûr que vous ne le pensez (si vous prenez les bonnes précautions)** - La sécurité est souvent le plus grand obstacle au cyclisme. Il est donc tout à fait normal de se sentir nerveux au début. Mais en prenant les bonnes précautions, le cyclisme urbain peut être un moyen de transport sûr. Pour plus d'information sur l'équipement à avoir et les conditions de sécurité à suivre, voyez par exemple les [conseils de la Ville de Paris](https://www.paris.fr/pages/quelques-conseils-de-securite-pour-rouler-a-velo-7382). Et avec moins de voitures sur la route que d'habitude, c'est le moment idéal pour commencer et gagner en confiance. Vous pourriez même demander à un ami de vous accompagner la première fois ? 
 
-**3. Vous économiserez de l'argent** - Vous serez agréablement surpris par la quantité d'argent que vous épagnerez sur le carburant et le transport. Un "truc" chouette est de mettre vos économies dans un pot et de l'utiliser pour vous faire plaisir à la fin de l'année - vous en aurez probablement assez pour quelques dîners, un week-end en voyage ou le dernier gadget que vous désirez.
+**2. Les avantages pour la santé sont indéniables** - Rouler à vélo au quotidien est l'un des meilleurs moyens d'améliorer votre santé physique et mentale. Un déplacement de 30 minutes cinq fois par semaine, même à un rythme calme, vous permet de dépasser les recommandations d'activité physique hebdomadaire.
 
-**4. Et enfin et surtout, vous l'apprécierez - on vous promet** - Vous en avez assez de commencer votre journée en étant coincé dans les bouchons, un bus ou un métro? Le voyage à vélo vous permet de vous deplacer rapidement, en vous donnant de l'espace pour respirer. Il vous permet de rester en contact avec l'environnement et les personnes qui vous entourent et, la plupart du temps, vous livre à destination avec un sourire sur votre visage.
+**3. Vous économiserez de l'argent** - Vous serez agréablement surpris par la quantité d'argent que vous pouvez épargner en roulant à vélo - des études ont montré que rouler à vélo peut coûter chaque année jusqu'à 60 fois moins que la voiture, et 4 fois moins que les transports en commun. Une astuce pour vous en rendre compte et vous motiver peut être de mettre les économies faites en pass transport ou en carburant dans une boîte, et de les utiliser pour vous faire plaisir à la fin de l'année - vous en aurez probablement assez pour quelques dîners, un week-end, ou le dernier gadget technologique que vous désirez.
+
+**4. Et enfin et surtout, vous l'apprécierez - on vous promet** - Vous en avez assez de commencer votre journée en étant coincé dans les bouchons, un bus ou un métro? Le voyage à vélo vous permet de vous déplacer rapidement, en vous donnant de l'espace pour respirer. Il vous permet de rester en contact avec votre environnement et les personnes qui vous entourent et, d'arriver avec le sourire (quand il ne pleut pas trop).
 
 **Alors, faites-vous plaisir et profitez de votre liberté retrouvée !**
